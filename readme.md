@@ -3,3 +3,6 @@
 - Milk
 - Cheese
 - Coffee
+- Filters
+- OJ
+- Mushrooms
