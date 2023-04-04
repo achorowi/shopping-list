@@ -1,0 +1,5 @@
+- Bacon
+- Eggs
+- Milk
+- Cheese
+- Coffee
